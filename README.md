@@ -9,12 +9,10 @@
 
 ├── Notebook.ipynb (the Jupyter notebook containing the code)
 
-├── Data (containing the AirBnB listings data in csv format)
+├── Data (containing the Combined Cycle Power Plant (CCPInternet Firewall P) and Internet Firewall data as Microsoft Excel format)
 
 ## Requirements
 Python 3.6
-
-Scikit-learn
 
 Pandas
 
@@ -22,8 +20,10 @@ Numpy
 
 Seaborn
 
+Matplotlib
+
+Scikit-learn
+
 Scipy
 
 Statsmodels
-
-## Instructions to re-run the code
