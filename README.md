@@ -8,12 +8,12 @@
 ├── Data (containing the AirBnB listings data in csv format)
 
 ## Requirements
-Python 3.6
-scikit-learn
-Pandas
-Numpy
-seaborn
-scipy
-statsmodels
+###Python 3.6
+###scikit-learn
+###Pandas
+###Numpy
+###seaborn
+###scipy
+###statsmodels
 
 ## Instructions to re-run the code
